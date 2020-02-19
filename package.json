@@ -1,0 +1,27 @@
+{
+  "name": "clab",
+  "version": "1.0.0",
+  "description": "基于Google 分层实验论文的实验SDK",
+  "main": "lib/clab.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "debug": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archerU/clab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archerU/clab/issues"
+  },
+  "homepage": "https://github.com/archerU/clab#readme",
+  "dependencies": {
+    "log4js": "^6.1.2",
+    "mkdirp": "^1.0.3"
+  }
+}
